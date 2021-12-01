@@ -2,3 +2,4 @@
 Terminal for working with COM-ports supporting Modbus protocol (Windows OS).
 Password: 1234567.
 After unpacking add .exe extension
+https://habr.com/ru/post/584520/
