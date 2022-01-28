@@ -5,6 +5,8 @@ After unpacking add .exe extension.
 
 https://habr.com/ru/post/584520/
 
+![image](https://user-images.githubusercontent.com/46821516/151564604-94bdf731-4248-4b0a-9e67-41eabc24ef30.png)
+
 
 History EN:
 v 2.97 - starter version
