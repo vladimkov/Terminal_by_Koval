@@ -18,6 +18,10 @@ In the "Modbus-master" utility added:
   "MODBUS Application Protocol Specification V1.1b3";
 - response timeout setting step reduced to 5 ms.
 
+v 2.99
+- Added the ability to select a separator when splitting a string as separate HEX-characters in the "Analysis of the string" utility.
+  Previously, only the space character was used as a separator.
+- Added a hyperlink to the terminal download page in the "About" window.
 
 
 History RU:
@@ -28,4 +32,10 @@ v 2.98
 - возможность задать период автоопроса в миллисекундах;
 - расшифровка исключительного ответа опрашиваемого modbus-устройства в соответствии с документом
   "MODBUS Application Protocol Specification V1.1b3";
-- шаг установки таймаута ожидания ответа уменьшен до 5 мс. 
+- шаг установки таймаута ожидания ответа уменьшен до 5 мс.
+
+v 2.99
+- В утилите "Анализ строки" добавлена возможность выбора разделителя при разбивании строки в виде отдельных HEX-символов.
+  Ранее в качестве разделителя использовался исключительно символ пробела.
+- В окне "About" добавлена гиперссылка на страницу загрузки терминала.  
+
