@@ -23,9 +23,7 @@ v 2.99
   Previously, only the space character was used as a separator.
 - Added a hyperlink to the terminal download page in the "About" window.
 
-//
-//
-//
+/////////////////////////////////////////////////////////////////////////
 
 History RU:
 v 2.97 - стартовая версия
